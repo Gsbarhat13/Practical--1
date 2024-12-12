@@ -19,7 +19,7 @@
         <select>
           <option>Male</option>
           <option>Female </option>
-        </select>
+        </select> 
       
         <button type="submit">Register</button>
     </form>
